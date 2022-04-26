@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# holds discord token
+.config.json
+
+
 # testing
 /coverage
 
